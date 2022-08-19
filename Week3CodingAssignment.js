@@ -206,5 +206,12 @@ function willBuyDrink (isHotOutside, moneyInPocket){
 
     
 //13.	Create a function of your own that solves a problem. In comments, write what the function does and why you created it.
+function add2(a, b){
+    return a + b;
+        
+}
+console.log(add2(3, 4));
+
+//Honestly I created this code because I wanted to make it easy because I am very tired!
 
 
